@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React,bootstrap**
+- 🌱 I’m currently learning **React, bootstrap , Data analytics**
 
-- 👯 I’m looking to collaborate on **front-End projects**
+- 👯 I’m looking to collaborate on **front-End projects , Data Science**
 
-- 🤝 I’m looking for help with **front-End projects**
+- 🤝 I’m looking for help with **front-End projects , Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya04-code](https://github.com/Aditya04-code)
 
