@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Suhane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Exploring data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya04-code&label=Profile%20views&color=0e75b6&style=flat" alt="aditya04-code" /> </p>
 
