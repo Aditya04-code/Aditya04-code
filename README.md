@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-suhane-264a81204/](https://www.linkedin.com/in/aditya-suhane-264a81204/)
 
-- 📄 my experiences - https://drive.google.com/file/d/1_IV4yNfAKIGM90GHLlguu6-5TX0eY9I7/view?usp=sharing
+- 📄 my experiences - https://drive.google.com/file/d/1O3QwOsr0Tm-aL5C-zIS--LXIh38c_Vj0/view?usp=share_link
 
 - ⚡ Fun fact **learning everyday something new starting with exploring about Ai**
 
