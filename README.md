@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-suhane-264a81204/](https://www.linkedin.com/in/aditya-suhane-264a81204/)
 
-- ⚡ Fun fact **learning everyday something new starting with exploring about the role of Data Science in Finance **
+- ⚡ Fun fact **learning everyday something new starting with exploring about the role of Data in Finance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
