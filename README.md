@@ -7,23 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Power bi**
+- 🌱 I’m currently learning **Financial Data Science**
 - 📝 I regularly write articles on https://medium.com/@adityasuhane4
-- 👯 I’m looking to collaborate on **front-End projects , Data Science**
+- 👯 I’m looking to collaborate over ** Data Science , Quant Finance , Econometrics , Machine Learning , Quantitative Trading , Algorithmic Trading **
 
-- 🤝 I’m looking for help with **front-End projects , Data Science**
+- 🤝 I’m looking for help with ** Quant Finance , Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya04-code](https://github.com/Aditya04-code)
-
-- 💬 Ask me about **bootstrap,c++,python,nlp,HTML,CSS,mysql**
 
 - 📫 How to reach me **adityasuhane4@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-suhane-264a81204/](https://www.linkedin.com/in/aditya-suhane-264a81204/)
 
-- 📄 my experiences - (https://adityasuhane.framer.ai/)
-
-- ⚡ Fun fact **learning everyday something new starting with exploring about Ai**
+- ⚡ Fun fact **learning everyday something new starting with exploring about the role of Data Science in Finance **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
