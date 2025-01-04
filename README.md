@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Financial Data Science**
 - 📝 I regularly write articles on https://medium.com/@adityasuhane4
-- 👯 I’m looking to collaborate over ** Data Science , Quant Finance , Econometrics , Machine Learning , Quantitative Trading , Algorithmic Trading **
+- 👯 I’m looking to collaborate over **Data Science , Quant Finance , Econometrics , Machine Learning , Quantitative Trading , Algorithmic Trading**
 
-- 🤝 I’m looking for help with ** Quant Finance , Data Science**
+- 🤝 I’m looking for help with **Quant Finance , Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aditya04-code](https://github.com/Aditya04-code)
 
